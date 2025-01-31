@@ -1,0 +1,12 @@
+[submodule "Source_Projects/Voron-Tap"]
+	path = Source_Projects/Voron-Tap
+	url = git@github.com:VoronDesign/Voron-Tap.git
+[submodule "Source_Projects/Voron-Stealthburner"]
+	path = Source_Projects/Voron-Stealthburner
+	url = git@github.com:VoronDesign/Voron-Stealthburner.git
+[submodule "Source_Projects/Voron-2"]
+	path = Source_Projects/Voron-2
+	url = git@github.com:VoronDesign/Voron-2.git
+[submodule "Source_Projects/gladiola"]
+	path = Source_Projects/gladiola
+	url = git@gitlab.com:lulzbot3d/printers/gladiola.git
